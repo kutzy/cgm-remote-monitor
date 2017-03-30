@@ -39,7 +39,7 @@
     },
     "BG_TARGET_TOP": {
       "description": "Non-urgent high BG alarm, the top of your target range. Default null value implies 180. Must be set in mg/dL. Only used with simple alarms.",
-      "value": "",
+      "value": "135",
       "required": false
     },
     "BG_TARGET_BOTTOM": {
